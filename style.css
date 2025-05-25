@@ -1,0 +1,42 @@
+body {
+    background-color: #FAEED1;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+
+  #header {
+    background-color: #DED0B6;
+    color: #607274;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 2em;
+    border-bottom: 4px solid #B2A59B;
+    width: 100%;
+    margin: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 8px
+  }
+
+  #picOfMea {
+    border: 5px solid #607274; /* Fixed: add 'solid' and reduce thickness */
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  #learn{
+    background-color: #DED0B6;
+    color: #607274;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 1em;
+    width: 15%;
+    margin: 20px auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 100px
+  }
