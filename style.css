@@ -1,11 +1,11 @@
 body {
     background-color: #FAEED1;
-    font-family: Arial, sans-serif;
-    color: #333;
+    font-family: 'DM Serif Text', serif;
+    color: #607274;
     padding: 20px;
   }
 
-  #header {
+  #header-box {
     background-color: #DED0B6;
     color: #607274;
     padding: 20px 0;
@@ -27,16 +27,64 @@ body {
     margin: 0 auto;
   }
 
-  #learn{
+  #learn-bubble{
     background-color: #DED0B6;
     color: #607274;
     padding: 20px 0;
     text-align: center;
     font-size: 1em;
-    width: 15%;
+    width: 20%;
     margin: 20px auto;
     position: relative;
     top: 0;
     left: 0;
     border-radius: 100px
+  }
+
+  #sub-Work-header{
+    color: #607274;
+    text-align: center;
+    font-weight: 900;
+  }
+
+  #list{
+    color: #607274;
+    text-align: center;
+    list-style-position: inside;
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 0;
+    font-size: 1.25em;
+  }
+
+  #bubble{
+    background-color: #DED0B6;
+    color: #607274;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 1.5em;
+    width: 20%;
+    margin: 20px auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 100px
+  }
+
+  #non-center{
+    background-color: #DED0B6;
+    color: #607274;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 1.5em;
+    width: 20%;
+    margin: 20px auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 100px
+  }
+
+  #about-text{
+    font-size: 1.25em;
   }
