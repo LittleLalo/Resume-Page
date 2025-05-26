@@ -1,17 +1,17 @@
 body {
-    background-color: #FAEED1;
+    background-color: #ffffff;
     font-family: 'DM Serif Text', serif;
-    color: #607274;
+    color: #353535;
     padding: 20px;
   }
 
   #header-box {
-    background-color: #DED0B6;
+    background-color: #d9d9d9;
     color: #607274;
     padding: 20px 0;
     text-align: center;
     font-size: 2em;
-    border-bottom: 4px solid #B2A59B;
+    border-bottom: 4px solid #284b63;
     width: 100%;
     margin: 0;
     position: relative;
@@ -21,15 +21,15 @@ body {
   }
 
   #picOfMea {
-    border: 5px solid #607274; /* Fixed: add 'solid' and reduce thickness */
+    border: 5px solid #d9d9d9; /* Fixed: add 'solid' and reduce thickness */
     border-radius: 10px;
     display: block;
     margin: 0 auto;
   }
 
   #learn-bubble{
-    background-color: #DED0B6;
-    color: #607274;
+    background-color: #d9d9d9;
+    color: #353535;
     padding: 20px 0;
     text-align: center;
     font-size: 1em;
@@ -42,13 +42,13 @@ body {
   }
 
   #sub-Work-header{
-    color: #607274;
+    color: #3c6e71;
     text-align: center;
     font-weight: 900;
   }
 
   #list{
-    color: #607274;
+    color: #353535;
     text-align: center;
     list-style-position: inside;
     display: inline-block;
@@ -58,8 +58,8 @@ body {
   }
 
   #bubble{
-    background-color: #DED0B6;
-    color: #607274;
+    background-color: #d9d9d9;
+    color: #353535;
     padding: 20px 0;
     text-align: center;
     font-size: 1.5em;
@@ -72,8 +72,8 @@ body {
   }
 
   #non-center{
-    background-color: #DED0B6;
-    color: #607274;
+    background-color: #d9d9d9;
+    color: #353535;
     padding: 20px 0;
     text-align: center;
     font-size: 1.5em;
@@ -88,3 +88,4 @@ body {
   #about-text{
     font-size: 1.25em;
   }
+
